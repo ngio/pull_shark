@@ -21,3 +21,5 @@ SUBSTRING(name, 3, 2) AS ThirdAndFourthCharacters
 FROM sys.databases  
 WHERE database_id < 5;   
 
+
+
